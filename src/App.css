@@ -1,0 +1,63 @@
+.container{
+border:3px solid black;
+margin-left:210px;
+margin-bottom:10px;
+padding-left:20px;
+width:60%;
+position: relative;
+}
+h3{
+font-size:20px;
+}
+input[type="submit"]{
+outline:none;
+background-color: rgb(24, 106, 207);
+color:white;
+border:none;
+font-size:20px;
+border-radius:10px;
+margin-left:15px;
+padding:10px;
+}
+input[type="radio"]{
+font-size:10px;
+margin-right:6px;
+margin-bottom: 10px;
+}
+.container:hover{
+box-shadow:0px 0px 15px rgba(0,0,0.1);
+}
+
+.status{
+background-color: green;
+width:11%;
+position:absolute;
+top:0px;
+right:50px;
+}
+#submit-button{
+position:absolute;
+right:310px;
+margin:10px;
+}
+h1{
+text-align: center;
+background-color: rgb(71, 167, 11);
+color:white;
+width:30%;
+position:relative;
+left:400px;
+}
+img{
+position: absolute;
+width:150px;
+object-fit: cover;
+top:-20px;
+left: 300px;
+margin: 10px;
+}
+#head{
+/* background-color: red; */
+margin: 40px;
+}
+
